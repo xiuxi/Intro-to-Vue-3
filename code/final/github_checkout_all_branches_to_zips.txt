@@ -1,0 +1,27 @@
+remotes/origin/lesson-152
+
+git checkout remotes/origin/lesson-11
+
+$branch"
+
+zip -r ${branch##*/}".zip . -x '*.git*' -x '*.zip*'
+
+
+zip -r ${branch##*/}".zip . -x '*.git*' -x '*.zip*'
+
+
+
+zip -r 1.zip . -x '*.git*' -x '*.zip*'
+
+
+
+
+zip -r 2.zip . -x '*.git*' -x '*.zip*'
+
+
+
+	echo "111: $branch"
+	echo "222: ${branch##*/}"
+	
+	
+	
